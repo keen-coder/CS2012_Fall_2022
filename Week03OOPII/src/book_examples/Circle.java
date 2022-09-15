@@ -24,8 +24,6 @@ public class Circle {
     }
    
     public void setRadius(double radius) {
-    	
-    	
     	if (radius < 1) {
     		System.out.println("ERROR: Radius cannot be <= 0.");
     		System.out.println("Radius set to default value of 1.");
