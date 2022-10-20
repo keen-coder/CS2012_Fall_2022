@@ -18,7 +18,7 @@ public class PCProgramMain {
 		System.out.println(test.getList());
 		
 		
-
+		
 	}
 	
 }
